@@ -141,6 +141,7 @@ For local automation helpers, see:
 For contribution guidance, see:
 
 - [Contributing](CONTRIBUTING.md)
+- [Roadmap](ROADMAP.md)
 
 ## Principles
 
