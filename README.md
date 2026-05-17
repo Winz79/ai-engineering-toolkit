@@ -106,6 +106,7 @@ For reusable workflow skills, use:
 - [Architecture Planner](skills/architecture-planner/SKILL.md)
 - [Legacy Impact Analyzer](skills/legacy-impact-analyzer/SKILL.md)
 - [Threat Modeling](skills/threat-modeling/SKILL.md)
+- [Vertical Slice Planner](skills/vertical-slice-planner/SKILL.md)
 - [Code Reviewer](skills/code-reviewer/SKILL.md)
 
 For reusable role prompts, use:
