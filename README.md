@@ -59,6 +59,7 @@ prompts/       Role prompts for planner, implementation, review, and documentati
 standards/     Engineering standards used by agents and humans.
 adapters/      Tool-specific instructions for Codex, Claude, Continue, and similar tools.
 examples/      Worked examples that demonstrate the methodology in practice.
+tools/         Local automation helpers for repository operations.
 ```
 
 This first version intentionally starts small. The repository should grow through reviewed slices, not by generating a complete process manual in one pass.
@@ -75,6 +76,10 @@ For the full methodology, read:
 For the first templates, use:
 
 - [Intake Brief Template](templates/intake-brief-template.md)
+- [Context Discovery Template](templates/context-discovery-template.md)
+- [BRD Template](templates/brd-template.md)
+- [PRD Template](templates/prd-template.md)
+- [Feature Spec Template](templates/feature-spec-template.md)
 - [ADR Template](templates/adr-template.md)
 
 For agent behavior in Codex, use:
@@ -84,6 +89,10 @@ For agent behavior in Codex, use:
 For a worked example, see:
 
 - [ReplayLab Intake Brief](examples/replaylab/intake-brief.md)
+
+For local automation helpers, see:
+
+- [Notion Progress Helper](tools/notion/README.md)
 
 ## Principles
 
@@ -98,6 +107,6 @@ For a worked example, see:
 
 ## Current Status
 
-Initial repository scaffold and first methodology slice.
+Initial repository scaffold, core methodology slice, and first requirements/context templates.
 
 Several planned templates, skills, prompts, standards, and examples are intentionally not yet written. They should be added as separate reviewable changes.
