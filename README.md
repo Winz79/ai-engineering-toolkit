@@ -100,6 +100,13 @@ For reusable workflow skills, use:
 - [Threat Modeling](skills/threat-modeling/SKILL.md)
 - [Code Reviewer](skills/code-reviewer/SKILL.md)
 
+For reusable role prompts, use:
+
+- [Master Planner Prompt](prompts/master-planner.md)
+- [Implementation Agent Prompt](prompts/implementation-agent.md)
+- [Review Agent Prompt](prompts/review-agent.md)
+- [Documentation Agent Prompt](prompts/documentation-agent.md)
+
 For a worked example, see:
 
 - [ReplayLab Intake Brief](examples/replaylab/intake-brief.md)
