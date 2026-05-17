@@ -107,6 +107,13 @@ For reusable role prompts, use:
 - [Review Agent Prompt](prompts/review-agent.md)
 - [Documentation Agent Prompt](prompts/documentation-agent.md)
 
+For baseline standards, use:
+
+- [AI Agent Rules](standards/ai-agent-rules.md)
+- [Documentation Standard](standards/documentation.md)
+- [Testing Standard](standards/testing.md)
+- [Security Standard](standards/security.md)
+
 For a worked example, see:
 
 - [ReplayLab Intake Brief](examples/replaylab/intake-brief.md)
