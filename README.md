@@ -104,6 +104,7 @@ For reusable workflow skills, use:
 - [Feature Spec Generator](skills/feature-spec-generator/SKILL.md)
 - [Requirement Analyst](skills/requirement-analyst/SKILL.md)
 - [Architecture Planner](skills/architecture-planner/SKILL.md)
+- [ADR Generator](skills/adr-generator/SKILL.md)
 - [Legacy Impact Analyzer](skills/legacy-impact-analyzer/SKILL.md)
 - [Threat Modeling](skills/threat-modeling/SKILL.md)
 - [Vertical Slice Planner](skills/vertical-slice-planner/SKILL.md)
