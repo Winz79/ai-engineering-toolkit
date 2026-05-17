@@ -44,7 +44,7 @@ Use lightweight mode for small, low-risk work. Use full mode for new products, m
 - Start from existing methodology and templates.
 - Keep changes scoped to the requested slice.
 - Do not create all planned templates, skills, prompts, or standards in one pass.
-- Use placeholders only when a file is structurally necessary and the substantive content needs a later decision.
+- Use unresolved markers only when a file is structurally necessary and the substantive content needs a later decision.
 - Verify the resulting file tree and basic Markdown readability before reporting completion.
 
 ## Review Rules

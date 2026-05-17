@@ -93,6 +93,7 @@ For the first templates, use:
 
 For agent behavior in Codex, use:
 
+- [Adapters Index](adapters/README.md)
 - [Codex Agent Rules](adapters/codex/AGENTS.md)
 
 For reusable workflow skills, use:
