@@ -130,6 +130,7 @@ For baseline standards, use:
 
 For a worked example, see:
 
+- [Examples Index](examples/README.md)
 - [ReplayLab Intake Brief](examples/replaylab/intake-brief.md)
 
 For local automation helpers, see:
@@ -149,6 +150,6 @@ For local automation helpers, see:
 
 ## Current Status
 
-Initial repository scaffold, core methodology slice, expanded artifact templates, reusable workflow skills, role prompts, and baseline standards.
+Initial repository scaffold, core methodology docs, artifact templates, reusable workflow skills, role prompts, baseline standards, and the first example guidance are in place.
 
-Several planned templates, skills, prompts, standards, and examples are intentionally not yet written. They should be added as separate reviewable changes.
+The repository should continue growing through small example and adapter slices, with each new artifact reviewed against the methodology before it becomes a pattern.
