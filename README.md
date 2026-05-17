@@ -95,6 +95,10 @@ For reusable workflow skills, use:
 - [Intake Clarifier](skills/intake-clarifier/SKILL.md)
 - [Context Discovery Agent](skills/context-discovery-agent/SKILL.md)
 - [Requirement Analyst](skills/requirement-analyst/SKILL.md)
+- [Architecture Planner](skills/architecture-planner/SKILL.md)
+- [Legacy Impact Analyzer](skills/legacy-impact-analyzer/SKILL.md)
+- [Threat Modeling](skills/threat-modeling/SKILL.md)
+- [Code Reviewer](skills/code-reviewer/SKILL.md)
 
 For a worked example, see:
 
