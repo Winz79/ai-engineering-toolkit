@@ -100,6 +100,7 @@ For reusable workflow skills, use:
 - [Intake Clarifier](skills/intake-clarifier/SKILL.md)
 - [Context Discovery Agent](skills/context-discovery-agent/SKILL.md)
 - [BRD Generator](skills/brd-generator/SKILL.md)
+- [PRD Generator](skills/prd-generator/SKILL.md)
 - [Requirement Analyst](skills/requirement-analyst/SKILL.md)
 - [Architecture Planner](skills/architecture-planner/SKILL.md)
 - [Legacy Impact Analyzer](skills/legacy-impact-analyzer/SKILL.md)
