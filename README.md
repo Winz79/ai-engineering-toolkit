@@ -101,6 +101,7 @@ For reusable workflow skills, use:
 - [Context Discovery Agent](skills/context-discovery-agent/SKILL.md)
 - [BRD Generator](skills/brd-generator/SKILL.md)
 - [PRD Generator](skills/prd-generator/SKILL.md)
+- [Feature Spec Generator](skills/feature-spec-generator/SKILL.md)
 - [Requirement Analyst](skills/requirement-analyst/SKILL.md)
 - [Architecture Planner](skills/architecture-planner/SKILL.md)
 - [Legacy Impact Analyzer](skills/legacy-impact-analyzer/SKILL.md)
