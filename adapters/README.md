@@ -30,7 +30,7 @@ Each adapter should avoid:
 | --- | --- | --- |
 | Codex | [AGENTS.md](codex/AGENTS.md) | Initial adapter |
 | Claude | [CLAUDE.md](claude/CLAUDE.md) | Initial adapter |
-| Continue | `continue/rules.md` | Planned |
+| Continue | [rules.md](continue/rules.md) | Initial adapter |
 
 ## Update Pattern
 
