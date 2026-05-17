@@ -138,6 +138,10 @@ For local automation helpers, see:
 
 - [Notion Progress Helper](tools/notion/README.md)
 
+For contribution guidance, see:
+
+- [Contributing](CONTRIBUTING.md)
+
 ## Principles
 
 - Human judgment stays in the loop.
