@@ -110,6 +110,7 @@ For reusable workflow skills, use:
 - [Data Classification Assistant](skills/data-classification-assistant/SKILL.md)
 - [Vertical Slice Planner](skills/vertical-slice-planner/SKILL.md)
 - [Code Reviewer](skills/code-reviewer/SKILL.md)
+- [Regression Risk Reviewer](skills/regression-risk-reviewer/SKILL.md)
 
 For reusable role prompts, use:
 
