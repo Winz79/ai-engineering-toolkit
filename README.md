@@ -107,6 +107,7 @@ For reusable workflow skills, use:
 - [ADR Generator](skills/adr-generator/SKILL.md)
 - [Legacy Impact Analyzer](skills/legacy-impact-analyzer/SKILL.md)
 - [Threat Modeling](skills/threat-modeling/SKILL.md)
+- [Data Classification Assistant](skills/data-classification-assistant/SKILL.md)
 - [Vertical Slice Planner](skills/vertical-slice-planner/SKILL.md)
 - [Code Reviewer](skills/code-reviewer/SKILL.md)
 
