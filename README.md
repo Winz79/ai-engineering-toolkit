@@ -90,6 +90,12 @@ For agent behavior in Codex, use:
 
 - [Codex Agent Rules](adapters/codex/AGENTS.md)
 
+For reusable workflow skills, use:
+
+- [Intake Clarifier](skills/intake-clarifier/SKILL.md)
+- [Context Discovery Agent](skills/context-discovery-agent/SKILL.md)
+- [Requirement Analyst](skills/requirement-analyst/SKILL.md)
+
 For a worked example, see:
 
 - [ReplayLab Intake Brief](examples/replaylab/intake-brief.md)
@@ -111,6 +117,6 @@ For local automation helpers, see:
 
 ## Current Status
 
-Initial repository scaffold, core methodology slice, requirements/context templates, and first impact/design/delivery templates.
+Initial repository scaffold, core methodology slice, core templates, and first reusable workflow skills.
 
 Several planned templates, skills, prompts, standards, and examples are intentionally not yet written. They should be added as separate reviewable changes.
