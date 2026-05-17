@@ -111,6 +111,7 @@ For reusable workflow skills, use:
 - [Vertical Slice Planner](skills/vertical-slice-planner/SKILL.md)
 - [Code Reviewer](skills/code-reviewer/SKILL.md)
 - [Regression Risk Reviewer](skills/regression-risk-reviewer/SKILL.md)
+- [Release Notes Generator](skills/release-notes-generator/SKILL.md)
 
 For reusable role prompts, use:
 
