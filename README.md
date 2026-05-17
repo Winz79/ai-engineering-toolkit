@@ -103,6 +103,7 @@ For reusable workflow skills, use:
 - [PRD Generator](skills/prd-generator/SKILL.md)
 - [Feature Spec Generator](skills/feature-spec-generator/SKILL.md)
 - [Requirement Analyst](skills/requirement-analyst/SKILL.md)
+- [Domain Model Extractor](skills/domain-model-extractor/SKILL.md)
 - [Architecture Planner](skills/architecture-planner/SKILL.md)
 - [ADR Generator](skills/adr-generator/SKILL.md)
 - [Legacy Impact Analyzer](skills/legacy-impact-analyzer/SKILL.md)
