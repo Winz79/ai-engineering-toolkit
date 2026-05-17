@@ -29,7 +29,7 @@ Each adapter should avoid:
 | Tool | File | Status |
 | --- | --- | --- |
 | Codex | [AGENTS.md](codex/AGENTS.md) | Initial adapter |
-| Claude | `claude/CLAUDE.md` | Planned |
+| Claude | [CLAUDE.md](claude/CLAUDE.md) | Initial adapter |
 | Continue | `continue/rules.md` | Planned |
 
 ## Update Pattern
