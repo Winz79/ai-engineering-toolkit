@@ -80,6 +80,10 @@ For the first templates, use:
 - [BRD Template](templates/brd-template.md)
 - [PRD Template](templates/prd-template.md)
 - [Feature Spec Template](templates/feature-spec-template.md)
+- [Impact Analysis Template](templates/impact-analysis-template.md)
+- [Architecture Brief Template](templates/architecture-brief-template.md)
+- [Threat Model Template](templates/threat-model-template.md)
+- [Vertical Slice Plan Template](templates/vertical-slice-plan-template.md)
 - [ADR Template](templates/adr-template.md)
 
 For agent behavior in Codex, use:
@@ -107,6 +111,6 @@ For local automation helpers, see:
 
 ## Current Status
 
-Initial repository scaffold, core methodology slice, and first requirements/context templates.
+Initial repository scaffold, core methodology slice, requirements/context templates, and first impact/design/delivery templates.
 
 Several planned templates, skills, prompts, standards, and examples are intentionally not yet written. They should be added as separate reviewable changes.
