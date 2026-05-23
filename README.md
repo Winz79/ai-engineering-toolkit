@@ -70,18 +70,13 @@ This first version intentionally starts small. The repository should grow throug
 
 ## Start Here
 
-For the full methodology, read:
+For methodology navigation, start with:
 
+- [Methodology Index](methodology/README.md)
 - [AI-First Engineering Methodology](methodology/ai-first-engineering-methodology.md)
 - [Shared Toolkit and Local Project Contract](methodology/shared-toolkit-local-contract.md)
 - [Agent Task Routing](methodology/agent-task-routing.md)
-- [Issue as Memory](methodology/issue-as-memory.md)
-- [Methodology Improvement Loop](methodology/methodology-improvement-loop.md)
-- [Reviewer Scope and Post-Review Handoff](methodology/reviewer-scope-and-handoff.md)
-- [Implementation Session Continuity](methodology/implementation-session-continuity.md)
-- [Optional Managed Worktree Pool](methodology/optional-managed-worktree-pool.md)
-- [New Project Flow](methodology/new-project-flow.md)
-- [Existing Project Feature Flow](methodology/existing-project-feature-flow.md)
+- [Model and Reasoning Effort Routing](methodology/model-and-reasoning-routing.md)
 - [Lightweight Flow](methodology/lightweight-flow.md)
 
 For the first templates, use:
@@ -101,6 +96,11 @@ For the first templates, use:
 - [Review Checklist Template](templates/review-checklist-template.md)
 - [Release Notes Template](templates/release-notes-template.md)
 - [ADR Template](templates/adr-template.md)
+- [Agent-Readable Issue Template](templates/agent-readable-issue-template.md)
+- [Task Contract Template](templates/task-contract-template.md)
+- [Context Routing Template](templates/context-routing-template.md)
+- [Implementation Continuity Note Template](templates/implementation-continuity-note-template.md)
+- [Methodology Improvement Note Template](templates/methodology-improvement-note-template.md)
 
 For agent behavior in Codex, use:
 
