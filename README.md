@@ -74,6 +74,7 @@ For the full methodology, read:
 
 - [AI-First Engineering Methodology](methodology/ai-first-engineering-methodology.md)
 - [Agent Task Routing](methodology/agent-task-routing.md)
+- [Issue as Memory](methodology/issue-as-memory.md)
 - [Reviewer Scope and Post-Review Handoff](methodology/reviewer-scope-and-handoff.md)
 - [New Project Flow](methodology/new-project-flow.md)
 - [Existing Project Feature Flow](methodology/existing-project-feature-flow.md)
