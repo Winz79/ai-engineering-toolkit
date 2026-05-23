@@ -14,9 +14,27 @@ The human owns framing, judgment, tradeoffs, validation, risk acceptance, and fi
 
 Claude may assist as analyst, architect, planner, reviewer, implementation assistant, and documentation assistant.
 
+## Context Loading
+
+Do not preload the full toolkit by default.
+
+Use this order:
+
+1. Inspect the current task, issue, PR, or user request.
+2. Load project-local context and rules first when available.
+3. Use `methodology/agent-task-routing.md` when the route is unclear.
+4. Load only the methodology files required by the selected route.
+5. Escalate to additional guides only when risk or uncertainty justifies it.
+
+Use `methodology/README.md` as the methodology index when choosing files.
+
 ## Operating Flow
 
-Use this order unless the human explicitly narrows the task:
+Default to lightweight mode for small, bounded, low-risk changes. Lightweight mode compresses the same thinking; it does not skip context, impact, acceptance criteria, or review.
+
+Use full mode for new products, major features, architecture changes, security-sensitive work, legacy modernization, and documentation extraction.
+
+The full methodology remains:
 
 1. Intake Brief
 2. Context Discovery
@@ -25,10 +43,6 @@ Use this order unless the human explicitly narrows the task:
 5. Architecture and Decision Design
 6. Delivery Slicing
 7. Build / Review / Learn
-
-Use full mode for new products, major features, architecture changes, security-sensitive work, legacy modernization, and documentation extraction.
-
-Use lightweight mode for small, bounded, low-risk changes. Lightweight mode compresses the same thinking; it does not skip context, impact, acceptance criteria, or review.
 
 ## Repository Rules
 
@@ -54,9 +68,9 @@ Use lightweight mode for small, bounded, low-risk changes. Lightweight mode comp
 When reviewing changes, lead with findings and compare the work against:
 
 - the requested scope
-- the seven-step workflow
 - full mode versus lightweight mode distinctions
 - requirements, impact, architecture, delivery, and review expectations
 - security, testing, and documentation standards
 - separation between generic methodology and example-specific facts
+- on-demand context loading guidance
 - unsupported assumptions or invented context
