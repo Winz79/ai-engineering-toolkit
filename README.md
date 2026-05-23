@@ -49,6 +49,8 @@ Use **lightweight mode** when the work is bounded and low-risk:
 
 Lightweight mode still follows the same thinking path, but it compresses the artifacts so the process does not become heavier than the work.
 
+Use [Agent Task Routing](methodology/agent-task-routing.md) before starting work when the next route is unclear or when multiple agent roles could apply.
+
 ## Repository Structure
 
 ```text
@@ -69,6 +71,7 @@ This first version intentionally starts small. The repository should grow throug
 For the full methodology, read:
 
 - [AI-First Engineering Methodology](methodology/ai-first-engineering-methodology.md)
+- [Agent Task Routing](methodology/agent-task-routing.md)
 - [New Project Flow](methodology/new-project-flow.md)
 - [Existing Project Feature Flow](methodology/existing-project-feature-flow.md)
 - [Lightweight Flow](methodology/lightweight-flow.md)
