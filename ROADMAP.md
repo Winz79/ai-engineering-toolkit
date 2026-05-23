@@ -32,7 +32,7 @@ Avoid writing BRDs, PRDs, architecture briefs, or slice plans for ReplayLab unti
 
 ### 2. Methodology Refinement
 
-Improve the methodology after examples expose friction.
+Improve the methodology after real examples expose friction. Use [Methodology Improvement Loop](methodology/methodology-improvement-loop.md) to decide whether an observation should become a reusable toolkit asset or stay project-local.
 
 Candidate refinements:
 
