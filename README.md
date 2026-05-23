@@ -30,6 +30,8 @@ Each step produces reviewable artifacts that can be used by humans and AI agents
 
 ## Usage Modes
 
+Default to **lightweight mode** for bounded work. Escalate deliberately when risk, uncertainty, architecture impact, security/privacy concerns, migration, or cross-team coordination justify heavier artifacts.
+
 Use **full mode** when the work has meaningful uncertainty, risk, or architectural impact:
 
 - new product or new project
