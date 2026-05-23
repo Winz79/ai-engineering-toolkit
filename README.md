@@ -77,6 +77,7 @@ For the full methodology, read:
 - [Issue as Memory](methodology/issue-as-memory.md)
 - [Methodology Improvement Loop](methodology/methodology-improvement-loop.md)
 - [Reviewer Scope and Post-Review Handoff](methodology/reviewer-scope-and-handoff.md)
+- [Implementation Session Continuity](methodology/implementation-session-continuity.md)
 - [New Project Flow](methodology/new-project-flow.md)
 - [Existing Project Feature Flow](methodology/existing-project-feature-flow.md)
 - [Lightweight Flow](methodology/lightweight-flow.md)
