@@ -11,6 +11,7 @@ Do not load every methodology file by default.
 | understand the overall methodology | [AI-First Engineering Methodology](ai-first-engineering-methodology.md) |
 | integrate the toolkit into another repo | [Shared Toolkit and Local Project Contract](shared-toolkit-local-contract.md) |
 | decide which route or role should act | [Agent Task Routing](agent-task-routing.md) |
+| choose model tier / reasoning effort | [Model and Reasoning Effort Routing](model-and-reasoning-routing.md) |
 | keep bounded work lightweight | [Lightweight Flow](lightweight-flow.md) |
 | use an issue/work item as durable memory | [Issue as Memory](issue-as-memory.md) |
 | review PRs without turning review into planning | [Reviewer Scope and Post-Review Handoff](reviewer-scope-and-handoff.md) |
