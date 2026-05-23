@@ -73,6 +73,7 @@ This first version intentionally starts small. The repository should grow throug
 For the full methodology, read:
 
 - [AI-First Engineering Methodology](methodology/ai-first-engineering-methodology.md)
+- [Shared Toolkit and Local Project Contract](methodology/shared-toolkit-local-contract.md)
 - [Agent Task Routing](methodology/agent-task-routing.md)
 - [Issue as Memory](methodology/issue-as-memory.md)
 - [Methodology Improvement Loop](methodology/methodology-improvement-loop.md)
