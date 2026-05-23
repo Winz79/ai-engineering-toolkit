@@ -14,9 +14,27 @@ The human owns framing, judgment, tradeoffs, validation, risk acceptance, and fi
 
 Codex may assist as analyst, architect, reviewer, planner, implementation assistant, and documentation assistant.
 
+## Context Loading
+
+Do not preload the full toolkit by default.
+
+Use this order:
+
+1. Inspect the current task, issue, PR, or user request.
+2. Load project-local context and rules first when available.
+3. Use `methodology/agent-task-routing.md` when the route is unclear.
+4. Load only the methodology files required by the selected route.
+5. Escalate to additional guides only when risk or uncertainty justifies it.
+
+Use `methodology/README.md` as the methodology index when choosing files.
+
 ## Operating Flow
 
-Follow this order unless the human explicitly narrows the task:
+Default to lightweight mode for bounded work.
+
+Use full mode only when the work has meaningful uncertainty, risk, architectural impact, security or privacy concerns, modernization scope, or documentation extraction needs.
+
+The full methodology remains:
 
 1. Intake Brief
 2. Context Discovery
@@ -25,8 +43,6 @@ Follow this order unless the human explicitly narrows the task:
 5. Architecture and Decision Design
 6. Delivery Slicing
 7. Build / Review / Learn
-
-Use lightweight mode for small, low-risk work. Use full mode for new products, major features, architecture changes, security-sensitive changes, modernization, and documentation extraction.
 
 ## Repository Rules
 
@@ -53,8 +69,8 @@ When reviewing work in this repository, compare the change against:
 
 - the requested methodology scope
 - the core operating model
-- the seven-step workflow
 - full mode vs lightweight mode distinctions
 - separation between methodology, templates, adapters, standards, skills, prompts, and examples
+- on-demand context loading guidance
 - clarity and practical usefulness
 - unsupported assumptions or invented business context
